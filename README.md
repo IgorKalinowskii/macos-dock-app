@@ -9,5 +9,5 @@ This is a macOS-style dock implemented in Flutter. The dock supports drag-and-dr
 ### How to Run
 1. Clone the repository:
    ```bash
-   git clone <repository-link>
+   git clone https://github.com/IgorKalinowskii/macos-dock-app.git
 
