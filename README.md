@@ -1,5 +1,13 @@
-Project Purpose: "A Dock application imitating macOS with the ability to reorder icons."
+## Project Overview
+This is a macOS-style dock implemented in Flutter. The dock supports drag-and-drop reordering, hover animations, and tooltips.
 
-Run Instructions: "Simply open the GitHub Pages link or clone the project and run it using the flutter run command."
+### Features
+- Fully animated dock items.
+- Drag-and-drop functionality.
+- Tooltips on hover.
 
-Feature Description: "Dynamic Dock, drag-and-drop icon support, highlighting effects, etc."
+### How to Run
+1. Clone the repository:
+   ```bash
+   git clone <repository-link>
+
